@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hitesh-Nagothu
-- 👀 I’m interested in building web applications and Machine Learning
+- 👀 I’m interested in building web applications and building Machine Learning models 
 - 🌱 My go to full stack tools are MERN
 - 💞️ I’m looking to collaborate on Python projects (for ex. ML for Natural Language processing) or any cool web applications using React
 - 📫 How to reach me : hiteshnagothu@gmail.com
